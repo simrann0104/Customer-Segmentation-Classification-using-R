@@ -26,17 +26,13 @@ The data includes the following features:
 - Region  
 - Timestamp  
 
-## **Screenshots**
+## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
-
-![Screenshot 2](images/screenshot2.png)
-
-![Screenshot 3](images/screenshot3.png)
-
-![Screenshot 4](images/screenshot4.png)
-
-![Screenshot 5](images/screenshot5.png)
+<img src="images/screenshot1.png" height="250">
+<img src="images/screenshot2.png" height="250">
+<img src="images/screenshot3.png" height="250">
+<img src="images/screenshot4.png" height="250">
+<img src="images/screenshot5.png" height="250">
 
 ## **Contributing**  
 Contributions are welcome! Feel free to fork the repository and create a pull request.  
