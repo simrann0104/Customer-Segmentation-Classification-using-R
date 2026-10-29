@@ -26,6 +26,13 @@ The data includes the following features:
 - Region  
 - Timestamp  
 
+
+## **Additional Resources**
+
+The Tableau dashboard and presentation slides for this project are available in a separate repository.
+
+- **[Tableau Dashboard & Presentation Slides](https://github.com/simrann0104/Customer-Segmentation-Classification)**
+
 ## Screenshots
 
 <img src="images/screenshot1.png" height="250">
@@ -33,6 +40,7 @@ The data includes the following features:
 <img src="images/screenshot3.png" height="250">
 <img src="images/screenshot4.png" height="250">
 <img src="images/screenshot5.png" height="250">
+
 
 ## **Contributing**  
 Contributions are welcome! Feel free to fork the repository and create a pull request.  
